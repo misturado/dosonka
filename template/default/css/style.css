@@ -1,0 +1,58 @@
+#main {
+    width: 1200px;
+    height: auto;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#main header {
+    height: 100px;
+    width: 1200px;
+    border: 1px solid black;
+}
+
+#login {
+    height: 20px;
+    width: 1200px;
+    border: 1px solid black;
+    text-align: right;
+    
+}
+
+nav {
+    height: auto;
+    width: 1200px;
+    border: 1px solid black;
+}
+
+#menu ul{
+    list-style: none;
+    
+}
+
+#leftside {
+    width: 250px;
+    height: auto;
+    float: left;
+    border: 1px solid black;
+    
+}
+
+#leftside h2 {
+    text-align: center;
+}
+
+#rightside {
+    width: 946px;
+    height: auto;
+    float: left;
+    border: 1px solid black;
+    text-align: center;
+}
+
+footer {
+    clear: both;
+    height: auto;
+    width: 1200px;
+    border: 1px solid black;
+}
